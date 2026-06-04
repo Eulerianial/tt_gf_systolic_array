@@ -21,7 +21,7 @@ project:
     - "bsc.v"
     - "jtag.v" 
     -  "mac_fsm.v"
-    - "tt_um_essen.v"
+    - "tt_um_systolic_array.v"
     - "booth_radix4_mul.v"
     - "ir.v"
     - "mac.v"
